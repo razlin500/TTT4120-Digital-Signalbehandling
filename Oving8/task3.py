@@ -4,7 +4,7 @@ import soundfile as sf
 from scipy.signal import lfilter
 import pysptk
 
-# Rasmus Nummelin X Claude collaboration
+# Rasmus Nummelin X Claude
 
 # Parameters
 Fs = 8000  # Sampling frequency in Hz
